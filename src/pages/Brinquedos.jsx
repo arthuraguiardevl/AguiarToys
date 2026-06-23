@@ -105,7 +105,7 @@ export default function Brinquedos() {
       categoria: "Combo Especial",
       preco: "R$ 350,00",
       inclui:
-        "Inclui cama elástica, piscina de bolinhas, pebolim, ping pong, basquete duplo e cavalinho.",
+        "Inclui cama elástica, piscina de bolinhas, pebolim e cavalinho.",
       descricao:
         "Pacote completo com brinquedos para deixar seu evento ainda melhor.",
       img: "/img/combo.png",
